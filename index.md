@@ -11,8 +11,7 @@ This project explores the relationship between song lyric toxicity and factors, 
 
 # Resources 
 
-  * [Slides](http://bit.ly/2ygRcQE) highlighting notable results.
- 
+  * [Slides](http://bit.ly/2ygRcQE) highlighting notable results. 
   * [CoLab](http://bit.ly/2JDNeH4) showing our full data analysis.
 
 *** 
